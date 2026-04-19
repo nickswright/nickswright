@@ -2,7 +2,6 @@
 - I’m an ecologist interested in predator-prey interactions, community structure, and wildlife conservation
 - I’m currently exploring occupancy modeling, resource selection functions, and population time series analysis
 - Reach me at nickswright98@gmail.com
-- he/him
 
 <!---
 nickswright/nickswright is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
